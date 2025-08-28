@@ -42,7 +42,9 @@ Shadowrocket（俗称“小火箭”）是一款在iOS平台上广受欢迎的�
 
 如果您需要获取共享账号仅用于下载应用，我们为您筛选了一个相对可靠的平台。该平台定期更新共享账号信息，并明确标注了使用状态。
 
-**🔗 账号获取地址：[https://docs.applexp.com/free-accounts/Shadowrocket](https://docs.applexp.com/free-accounts/Shadowrocket)**
+**🔗 小火箭共享账号获取地址1：[https://docs.applexp.com/free-accounts/Shadowrocket](https://docs.applexp.com/free-accounts/Shadowrocket)**
+
+**🔗 小火箭共享账号获取地址2：[https://ios.juzixp.com](https://ios.juzixp.com/)**
 
 **🔗购买独享账号（小火箭独享账号，苹果各国ID，等各类账号）[【点击进入购买】](https://juzixp.com/)**
 
